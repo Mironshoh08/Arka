@@ -554,6 +554,7 @@
     text-decoration: none;
     padding: 13px 25px;
     color: #3D5675;
+    flex-wrap: wrap;
 }
 
 .section5__link1:hover {
